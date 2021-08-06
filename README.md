@@ -1,7 +1,5 @@
 # Doubly Linked List
-This is the second program that I created for my CS-310 class.
-
-This was a program that I completed for my CS-310 class in school. I used Java and eclipse to make this program. For this program I was suppose to make a Doubly Linked List class using a Nodes class. I was also to use that Doubly Linked List class for my Queue and Stack class.
+This was a program that I completed for my data structures class in school. I used Java and eclipse to make this program. For this program I was suppose to make a Doubly Linked List class using a Nodes class. I was also to use that Doubly Linked List class for my Queue and Stack class.
 
 What I learned:
 
