@@ -4,7 +4,7 @@ This was a program that I completed for my data structures class in school. I us
 What I learned:
 
   1. I learned how to use and create Stacks and Queue datastructures.
-  2. I learned how to test my program to make sure that it is working as intended.\
+  2. I learned how to test my program to make sure that it is working as intended.
   3. I learned how to create and use a Node class for the data structers that I created: Doubly linked list, Stack and Queue.
 
 How to run the test class:
